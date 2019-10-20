@@ -23,6 +23,6 @@ To use:
 - Train BiGAN using bigan.py
 - Make predictions using the functions in guess.py
 
-guess.py also includes a "game" which will try to guess how you rate images in a dataset, using Inverse Distance Weighting in BiGAN's feature space.
+guess.py also includes a "game" wefhich will try to guess how you rate images in a dataset, using Inverse Distance Weighting in BiGAN's feature space.
 
 Enjoy!
